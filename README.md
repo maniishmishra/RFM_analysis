@@ -4,7 +4,7 @@ Analyzing Customer Segmentation in Online Retail Datasets with Python, including
 
 
 
-Getting started In the following analysis, I am going to use the Online Retail Data Set, which was obtained from the UCI Machine Learning repository. The link to the data can be found here. In this article, I am going to write about how to carry out customer segmentation and RFM analysis on online retail data using python. Data This data set contains all of the transactions recorded for an online retailer based and registered in the UK between 2009–12–01 and 2011–12–09. The retailer specializes in all-occasion gift items. Most of the retailer’s customers are wholesalers. Column Descriptions
+Getting started In the following analysis, I am going to use the Online Retail Data Set, which was obtained from the UCI Machine Learning repository. The link to the data can be found here. In this article, I am going to write about how to carry out customer segmentation and RFM analysis on online retail data using python. Data This data set contains all of the transactions recorded for an online retailer based and registered in the UK. The retailer specializes in all-occasion gift items. Most of the retailer’s customers are wholesalers. Column Descriptions
 
 
 Column Name	Description	Data Type
